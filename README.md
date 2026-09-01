@@ -80,6 +80,11 @@ Tus tareas deberán pasar los siguientes tests
 npm run test
 ```
 
+Ejecutar el archivo para ver lo que hace tu código
+```bash
+node --watch nombreArchivo
+```
+
 Si te dice que vitest no es reconocido aún después de haber instalado las dependencias
 
 Instala manualmente vitest
